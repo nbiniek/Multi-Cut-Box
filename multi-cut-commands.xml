@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+  <loop>false</loop>
+  <repeat_times>1</repeat_times>
+  <repeat_period>500</repeat_period>
+  <packets_list>
+    <packet name="Burn A">
+      <payload>4D433F424121</payload>
+    </packet>
+    <packet name="Burn B">
+      <payload>4D433F424221</payload>
+    </packet>
+    <packet name="Burn C">
+      <payload>4D433F424321</payload>
+    </packet>
+    <packet name="Burn D">
+      <payload>4D433F424421</payload>
+    </packet>
+    <packet name="Transmit GPS Data">
+      <payload>4D433F544721</payload>
+    </packet>
+    <packet name="Turn On/Off Automatic GPS Updates">
+      <payload>4D433F414721</payload>
+    </packet>
+    <packet name="Transmit Pull Status">
+      <payload>4D433F545021</payload>
+    </packet>
+    <packet name="Turn On/Off Automatic Status Transmission">
+      <payload>4D433F415321</payload>
+    </packet>
+    <packet name="Turn On/Off Autonomous A Behavior">
+      <payload>4D433F414121</payload>
+    </packet>
+    <packet name="Turn On/Off Autonomous B Behavior">
+      <payload>4D433F414221</payload>
+    </packet>
+    <packet name="Turn On/Off Autonomous C Behavior">
+      <payload>4D433F414321</payload>
+    </packet>
+    <packet name="Turn On/Off Autonomous D Behavior">
+      <payload>4D433F414421</payload>
+    </packet>
+    <packet name="Test LED">
+      <payload>4D433F544C21</payload>
+    </packet>
+    <packet name="Burn All Modules">
+      <payload>4D433F585821</payload>
+    </packet>
+  </packets_list>
+</data>
